@@ -7,10 +7,11 @@ PyTorch code for our paper titled "Hybrid Transformer Network for Deepfake Detec
 If you find this code useful, please cite the following:
 
 ```
-@article{coccomini2022mintime,
-  title={MINTIME: Multi-Identity Size-Invariant Video Deepfake Detection},
-  author={Coccomini, Davide Alessandro and Zilos, Giorgos Kordopatis and Amato, Giuseppe and Caldelli, Roberto and Falchi, Fabrizio and Papadopoulos, Symeon and Gennaro, Claudio},
-  journal={arXiv preprint arXiv:2211.10996},
+@inproceedings{khan2022hybrid,
+  title={Hybrid Transformer Network for Deepfake Detection},
+  author={Khan, Sohail Ahmed and Dang-Nguyen, Duc-Tien},
+  booktitle={Proceedings of the 19th International Conference on Content-based Multimedia Indexing},
+  pages={8--14},
   year={2022}
 }
 
